@@ -28,7 +28,6 @@ github_username:  YameronB
 
 # Build settings
 markdown: kramdown
-theme: jekyll-dash
 plugins:
   - jekyll-feed
 
