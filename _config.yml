@@ -20,8 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   teamer. I like to blog about topics I am interested in or currently
   learning about. I received my Bachelors of Science in Cybersecurity
   from the College of Engineering at the University of South Florida.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cambrauner.dev" # the base hostname & protocol for your site, e.g. http://example.com
+domain: yameronb.github.io
+baseurl: /yamfolio.github.io/ # the subpath of your site, e.g. /blog
+url: https://yameronb.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Yam0x45
 github_username:  YameronB
 
@@ -53,7 +54,7 @@ tag_page_layout: tag_page
 tag_page_dir: tag
 
 # for github pages custom domains:
-# include: [CNAME]
+include: cambrauner.dev
 
 dash:
   # the way how dates should be displayed
